@@ -7,7 +7,7 @@
 	  "48": "icon.png",
 	  "128": "icon.png"
 	},
-	"permissions": ["storage", "activeTab"],
+	"permissions": ["storage"],
 	"content_scripts": [
 	  {
 		"matches": ["https://www.linkedin.com/feed/*"],
